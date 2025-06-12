@@ -30,7 +30,7 @@ header {
 .logo {
     width: 60px;
     height: 60px;
-    background: url("/assets/logo.png");
+    background: url("https://github.com/BrysonBracken/Island-Task/blob/main/assets/Logo.png?raw=true");
     background-size: cover;
     background-position: center;
 }
